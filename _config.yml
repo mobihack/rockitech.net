@@ -1,8 +1,8 @@
 name: RockiTech Blog
 
 description: "A blog dedicated to articles related to things like web development, design, server management..."
-url: "https://rockitech.net"
-enforce_ssl: "rockitech.net"
+url: "https://mh-rockitech-jekyll.netlify.com/"
+enforce_ssl: "mh-rockitech-jekyll.netlify.com"
 
 logo: /static/img/logo.png
 
